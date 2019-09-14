@@ -2,13 +2,13 @@
 login-with-header theme is based on bootstrap 4.3 version, by bootcatch team. Thanks :)
 
 ### first-shot
-[![login-with-header](https://github.com/ajaymarathe/login-with-header/blob/master/assets/img/login-with-header.png)](http://preview.bootcatch.com/login-with-header/)
+[![login-with-header](https://github.com/ajaymarathe/login-with-header/blob/master/assets/img/login-with-header.png)](https://ajaymarathe.github.io/login-with-header/)
 
 ## About
 
 Bootcatch is an open source library of free Bootstrap templates and themes. All of the free templates and themes on Bootcatch are released under the MIT license, which means you can use them for any purpose, even for commercial projects.
 
-* http://preview.bootcatch.com/login-with-header/
+* https://ajaymarathe.github.io/login-with-header/
 * http://bootcatch.com
 
 ## Usage
